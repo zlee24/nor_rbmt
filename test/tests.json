@@ -1,0 +1,10 @@
+{
+    "mtf-eng": {
+        "input": "mtf-eng-input.txt",
+        "mode": "mtf-eng"
+    },
+    "eng-mtf": {
+        "input": "eng-mtf-input.txt",
+        "mode": "eng-mtf"
+    }
+}
